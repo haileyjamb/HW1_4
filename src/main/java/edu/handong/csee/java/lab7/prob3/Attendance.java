@@ -10,6 +10,14 @@ public class Attendance {
 	private int year = 0;//declare and initialize integer "year"
 	private String student_id = "";//declare and initialize string "student_id"
 	private int missed = 0;//declare and initialize integer "missed"
+	
+	//this --> reference variable
+	//name = name; 자신에게 자기 자신을 대입 하고 끝남
+	//this.name = name; 자신에게 global var. name을 대입하고 끝남
+
+
+	//import java.util.*;//import all packages in java.io
+
 
 	//Constructors++ initialize in constructor
 	/**
