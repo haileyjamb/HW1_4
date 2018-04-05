@@ -7,7 +7,7 @@ package edu.handong.csee.java.lab7.prob1;
 public class YearToCentury {
 
 	int year;	//declare an integer
-	
+
 	/**
 	 * a method that initiates the integer
 	 */
@@ -22,7 +22,7 @@ public class YearToCentury {
 	{
 		this.year = year;//make sure that "year" is from the "YearToCentury"
 	}
-	
+
 	/**
 	 * a method that calculates a year into a century using if-else statement
 	 */
